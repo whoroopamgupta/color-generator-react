@@ -1,4 +1,4 @@
-### Try this : devroopam-color-generator.netlify.app
+### Try this : https://devroopam-color-generator.netlify.app/
 
 
 #### Values JS
